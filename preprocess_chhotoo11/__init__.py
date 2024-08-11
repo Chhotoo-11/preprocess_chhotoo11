@@ -1,6 +1,6 @@
 from preprocess_chhotoo11 import utils 
 
-__version__ = '0.0.11'
+__version__ = '0.0.12'
 
 def get_wordcounts(x):
 	return utils._get_wordcounts(x)
